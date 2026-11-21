@@ -1,0 +1,1 @@
+{"name":"parkour-lab","version":"0.1.0","type":"module","scripts":{"test":"node tests/physics-tests.js"}}
